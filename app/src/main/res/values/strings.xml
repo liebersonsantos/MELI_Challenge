@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MELI Challenge</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_item_tools">Bicicleta BTT ST 100 Amarelo Rockrider</string>
+    <string name="text_value_tools">R$ 1.199,99</string>
+    <string name="text_server_error">Erro ao acessar o sistema. Tente novamente.</string>
+    <string name="toolbar_search">Pesquisar</string>
+    <string name="product">Produto</string>
+    <string name="text_example_description">Estação de musculação com 90k</string>
+</resources>

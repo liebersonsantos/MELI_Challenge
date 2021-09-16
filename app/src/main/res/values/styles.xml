@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Text" parent="TextAppearance.AppCompat">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text.Primary">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="Text.Secondary">
+        <item name="android:textColor">@color/gray_700</item>
+    </style>
+
+    <style name="TextViewBold" parent="Text">
+        <item name="android:textColor">@color/gray_700</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginStart">16dp</item>
+        <item name="android:layout_marginTop">4dp</item>
+        <item name="android:layout_marginEnd">16dp</item>
+        <item name="android:textSize">28sp</item>
+    </style>
+
+    <style name="TextViewDescription">
+        <item name="android:textColor">@color/gray_700</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginStart">16dp</item>
+        <item name="android:layout_marginTop">4dp</item>
+        <item name="android:layout_marginEnd">16dp</item>
+        <item name="android:textSize">28sp</item>
+    </style>
+
+</resources>
